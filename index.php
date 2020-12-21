@@ -16,5 +16,6 @@
     </h1>
     <h2>length : <?php echo $parlenght?></h2>
     <h1>paragraph censured : <?php echo $censured; ?> </h1>
+    <h2>length :<?php echo strlen($censured) ?></h2>
   </body>
 </html>
